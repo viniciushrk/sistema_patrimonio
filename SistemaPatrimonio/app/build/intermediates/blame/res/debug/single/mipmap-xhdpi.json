@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\desktop\\programacao\\AndroidStudioProjects\\MyFirstApp\\SistemaPatrimonio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "D:\\desktop\\programacao\\AndroidStudioProjects\\MyFirstApp\\SistemaPatrimonio\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\desktop\\programacao\\AndroidStudioProjects\\MyFirstApp\\SistemaPatrimonio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher_round.png",
+        "source": "D:\\desktop\\programacao\\AndroidStudioProjects\\MyFirstApp\\SistemaPatrimonio\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    }
+]
